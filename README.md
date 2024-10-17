@@ -109,10 +109,12 @@ class AllNilai extends nilai{
 ```
 - mengambil semua data mahasiswa tanpa memfilter nilai akhir dan enggunakan JOIN untuk menampilkan semua informasi dari tabel nilai dan mahasiswa.
 
+## Hasil Output :
+### 1. Menampilkan semua data nilai
 ![alt text](/img/allNilai.png)
-
+### 2. Menampilkan hanya data nilai A
 ![alt text](/img/nilaiA.png)
-
+### 3. Menampilkan hanya data nilai B
 ![alt text](/img/nilaiB.png)
-
+### 4. Menampilkan hanya data nilai C
 ![alt text](/img/nilaiC.png)
