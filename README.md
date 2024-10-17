@@ -1,4 +1,6 @@
-# TUGAS 2
+# Pemrograman Web2
+__TUGAS 2__
+###  <u>Soal 1</u>
 
 ![alt text](/img/allNilai.png)
 

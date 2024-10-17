@@ -32,4 +32,3 @@ class AllNilai extends nilai{
         return parent::__construct()->query($query);
     }
 }
-//
