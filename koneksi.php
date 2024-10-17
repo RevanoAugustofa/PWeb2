@@ -1,10 +1,10 @@
 <?php 
 
 class database{
-    public $host = "localhost";
-    public $username = "root";
-    public $password = "";
-    public $database = "pweb2";
+    private $host = "localhost";
+    private $username = "root";
+    private $password = "";
+    private $database = "pweb2";
 
     // constructor
     public function __construct(){

@@ -25,22 +25,19 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand ms-3" href="#">Pemrograman Web2</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
     <div class="collapse navbar-collapse">
       <ul class="navbar-nav">
         <li class="nav-item ms-4 ">
-          <a class="nav-link active" aria-current="page" href="tampil_nilai.php?nilai=AllNilai">Semua Nilai</a>
+          <a class="nav-link active" aria-current="page" href="proses_nilai.php?nilai=AllNilai">Semua Nilai</a>
         </li>
         <li class="nav-item ms-2">
-          <a class="nav-link active" href="tampil_nilai.php?nilai=A">Nilai A</a>
+          <a class="nav-link active" href="proses_nilai.php?nilai=A">Nilai A</a>
         </li>
         <li class="nav-item  ms-2">
-          <a class="nav-link active"  href="tampil_nilai.php?nilai=B">Nilai B</a>
+          <a class="nav-link active"  href="proses_nilai.php?nilai=B">Nilai B</a>
         </li>
         <li class="nav-item  ms-2">
-          <a class="nav-link active" href="tampil_nilai.php?nilai=C">Nilai C</a>
+          <a class="nav-link active" href="proses_nilai.php?nilai=C">Nilai C</a>
         </li>
       </ul>
     </div>
